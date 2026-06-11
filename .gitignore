@@ -1,0 +1,21 @@
+# MATLAB autosave and temp files
+*.asv
+*.m~
+*.mex*
+slprj/
+sccprj/
+
+# MATLAB Live Script output cache
+.matlab/
+
+# Simulink
+*.slx.autosave
+*.slxc
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Results can be regenerated — optionally gitignore large PNGs
+# results/*.png
